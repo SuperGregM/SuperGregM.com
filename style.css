@@ -1,0 +1,16 @@
+.container {
+  display: flex;
+  align-items: center;
+}
+.image {
+  margin-right: 20px;
+}
+.links {
+  display: flex;
+  flex-direction: column;
+}
+.links a {
+  margin-bottom: 10px;
+  text-decoration: underline;
+  color: blue;
+}
