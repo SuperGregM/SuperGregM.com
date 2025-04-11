@@ -1,0 +1,19 @@
+# Ignore All
+**/*
+
+#Keep these files
+!assets
+!assets/images
+!assets/images/Avatar.png
+!assets/images/SGM-Logo.png
+!assets/images/SuperGregMcom-icon.png
+
+!.gitignore
+
+!index.html
+!style.css
+
+!SuperGregM.com.code-workspace
+
+
+
